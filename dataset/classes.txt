@@ -1,0 +1,10 @@
+flower
+bird
+kapok
+lychee
+lotus
+mandarin duck
+peacock
+crane
+dragon
+phoenix
